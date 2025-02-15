@@ -83,37 +83,6 @@
         "remove_vertical_spacing": false
       }
     },
-    "image_with_text_wg7jyt": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_yLG6Hn": {
-          "type": "heading",
-          "settings": {
-            "text": "<strong>Step Into Strength</strong>",
-            "heading_tag": "h1"
-          }
-        },
-        "richtext_XtyzdQ": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Experience the power of natural movement—stronger feet, better posture, and effortless balance. Feel lighter with every step, reduce strain on your joints, and unlock a new level of comfort. Embrace the freedom to move the way your body was meant to.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_yLG6Hn",
-        "richtext_XtyzdQ"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "image": "shopify://shop_images/20240407_173303.jpg",
-        "reveal_on_scroll": true,
-        "image_position": "start",
-        "content_width": "sm",
-        "remove_vertical_spacing": true
-      }
-    },
     "collection_list_Lyt3VJ": {
       "type": "collection-list",
       "blocks": {
@@ -169,12 +138,99 @@
         "title": "",
         "content": ""
       }
+    },
+    "image_with_text_wg7jyt": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_yLG6Hn": {
+          "type": "heading",
+          "settings": {
+            "text": "<strong>Step Into Strength</strong>",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_XtyzdQ": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Experience the power of natural movement—stronger feet, better posture, and effortless balance. Feel lighter with every step, reduce strain on your joints, and unlock a new level of comfort. Embrace the freedom to move the way your body was meant to.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_yLG6Hn",
+        "richtext_XtyzdQ"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "image": "shopify://shop_images/20240407_173303.jpg",
+        "reveal_on_scroll": true,
+        "image_position": "start",
+        "content_width": "sm",
+        "remove_vertical_spacing": true
+      }
+    },
+    "faq_pqJXWD": {
+      "type": "faq",
+      "blocks": {
+        "question_QmN6m7": {
+          "type": "question",
+          "settings": {
+            "question": "What are barefoot shoes?",
+            "answer": "<p>Barefoot shoes are footwear designed to mimic the feeling of walking barefoot while protecting your feet from sharp objects, dirt, and extreme temperatures. They support natural movement and foot health.</p>"
+          }
+        },
+        "question_YYr8wC": {
+          "type": "question",
+          "settings": {
+            "question": "What are the benefits of wearing barefoot shoes?",
+            "answer": "<p>Barefoot shoes can:</p><ul><li>Strengthen foot and leg muscles.</li><li>Improve balance and posture.</li><li>Enhance sensory feedback from the ground.</li><li>Reduce the risk of certain foot-related issues caused by conventional footwear.</li></ul>"
+          }
+        },
+        "question_wKzA67": {
+          "type": "question",
+          "settings": {
+            "question": "Can I wear barefoot shoes for running?",
+            "answer": "<p>Yes, barefoot shoes are excellent for running, but it’s important to transition gradually to avoid injuries. Start with short distances and allow your feet to adapt.</p>"
+          }
+        },
+        "question_F6HUFm": {
+          "type": "question",
+          "settings": {
+            "question": "Are Saguaro Shoes suitable for kids?",
+            "answer": "<p>Yes, Saguaro Shoes LB offers barefoot shoes for kids, helping promote natural foot development from an early age</p>"
+          }
+        },
+        "question_QAiEL4": {
+          "type": "question",
+          "settings": {
+            "question": "Are there accessories available for Saguaro Shoes?",
+            "answer": "<p>Saguaro Shoes LB also sells toe socks, toe separators, and insoles to complement their barefoot footwear</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_QmN6m7",
+        "question_YYr8wC",
+        "question_wKzA67",
+        "question_F6HUFm",
+        "question_QAiEL4"
+      ],
+      "settings": {
+        "color_scheme": "scheme-3",
+        "separate_section_with_border": true,
+        "show_categories": false,
+        "subheading": "Need help?",
+        "title": "Frequently Asked Questions",
+        "content": ""
+      }
     }
   },
   "order": [
     "slideshow",
     "rich_text_ziLyr3",
     "collection_list_Lyt3VJ",
-    "image_with_text_wg7jyt"
+    "image_with_text_wg7jyt",
+    "faq_pqJXWD"
   ]
 }
