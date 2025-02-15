@@ -205,45 +205,46 @@
         "testimonial_VfR7iB": {
           "type": "testimonial",
           "settings": {
-            "title": "COMPANY NAME",
-            "text": "The real gem is the integrated smartphone app with guided classes and body tracking. I really like it.",
-            "hide_avatar": false,
-            "author": "Lara S.",
+            "title": "wow",
+            "text": "My posture has improved so much! Walking feels effortless, and I no longer experience foot pain after long hours on my feet.",
+            "hide_avatar": true,
+            "author": "Ahmed K.",
             "stars_count": 5
           }
         },
         "testimonial_QtL8Kb": {
           "type": "testimonial",
           "settings": {
-            "title": "COMPANY NAME",
-            "text": "The real gem is the integrated smartphone app with guided classes and body tracking. I really like it.",
-            "hide_avatar": false,
-            "author": "Lara S.",
+            "title": "Game-changing",
+            "text": "I feel more balanced and connected to the ground. These have helped me strengthen my feet naturally—such a game changer!",
+            "hide_avatar": true,
+            "author": "Omar H.",
             "stars_count": 5
           }
         },
         "testimonial_V7QPG7": {
           "type": "testimonial",
           "settings": {
-            "title": "COMPANY NAME",
-            "text": "The real gem is the integrated smartphone app with guided classes and body tracking. I really like it.",
-            "hide_avatar": false,
-            "author": "Lara S.",
+            "title": "Amazing!",
+            "text": "Walking feels so natural now. My feet feel stronger, and I love how much better my posture has become!",
+            "hide_avatar": true,
+            "author": "Layla S.",
             "stars_count": 5
           }
         },
         "testimonial_KHfw4y": {
           "type": "testimonial",
           "settings": {
-            "title": "COMPANY NAME",
-            "text": "The real gem is the integrated smartphone app with guided classes and body tracking. I really like it.",
-            "hide_avatar": false,
-            "author": "Lara S.",
+            "title": "Unbelievable",
+            "text": "Perfect for everyday wear! My feet used to feel cramped in regular shoes, but now they feel free and strong.",
+            "hide_avatar": true,
+            "author": "Yousef R.",
             "stars_count": 5
           }
         },
         "testimonial_BQAyi9": {
           "type": "testimonial",
+          "disabled": true,
           "settings": {
             "title": "COMPANY NAME",
             "text": "The real gem is the integrated smartphone app with guided classes and body tracking. I really like it.",
@@ -261,7 +262,7 @@
         "testimonial_BQAyi9"
       ],
       "settings": {
-        "heading": "<h2>Over <strong>250+</strong> reviews on <em>Google</em> from our clients</h2>",
+        "heading": "<h2>TESTIMONIALS</h2>",
         "heading_custom": false,
         "heading_font": "josefin_sans_n4",
         "heading_size": 48,
@@ -332,25 +333,25 @@
         "progress_height_mobile": 6,
         "progress_show_desktop": true,
         "progress_show_mobile": true,
-        "card_bg_color": "#F8F8F8",
+        "card_bg_color": "#f8f8f8",
         "card_border_color": "#000000",
         "card_shadow_color": "#000000",
-        "title_color": "#B8B8B8",
+        "title_color": "#b8b8b8",
         "text_color": "#000000",
         "author_color": "#000000",
-        "arrow_color": "#E6E6E6",
-        "arrow_hover_color": "#A7A7A4",
-        "arrow_bg_color": "#FFFFFF",
-        "arrow_bg_hover_color": "#FFFFFF",
-        "arrow_border_color": "#FFFFFF",
-        "arrow_border_hover_color": "#FFFFFF",
-        "progress_bg_color": "#D9D9D9",
+        "arrow_color": "#e6e6e6",
+        "arrow_hover_color": "#a7a7a4",
+        "arrow_bg_color": "#ffffff",
+        "arrow_bg_hover_color": "#ffffff",
+        "arrow_border_color": "#ffffff",
+        "arrow_border_hover_color": "#ffffff",
+        "progress_bg_color": "#d9d9d9",
         "progress_color": "#838383",
         "heading_color": "#000000",
         "bottom_color": "#000000",
         "rating_text_color": "#000000",
-        "stars_color": "#F4AC03",
-        "background_color": "#FFFFFF",
+        "stars_color": "#f4ac03",
+        "background_color": "#ffffff",
         "background_gradient": "",
         "border_color": "#000000",
         "margin_top": 0,
