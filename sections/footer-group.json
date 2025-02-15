@@ -14,49 +14,38 @@
     "text-with-icons": {
       "type": "text-with-icons",
       "blocks": {
-        "icon-1": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-award-gift",
-            "icon_width": 24,
-            "mobile_icon_width": 24,
-            "title": "Free delivery worldwide",
-            "content": "<p>Short content about your store</p>"
-          }
-        },
         "icon-2": {
           "type": "item",
           "settings": {
-            "icon": "picto-award-gift",
+            "icon": "picto-delivery-truck",
             "icon_width": 24,
-            "mobile_icon_width": 24,
-            "title": "Satisfied or refunded",
-            "content": "<p>Short content about your store</p>"
+            "mobile_icon_width": 36,
+            "title": "SHIPPINg all over uae",
+            "content": ""
           }
         },
         "icon-3": {
           "type": "item",
           "settings": {
-            "icon": "picto-award-gift",
+            "icon": "picto-phone",
             "icon_width": 24,
-            "mobile_icon_width": 24,
-            "title": "Top-notch support",
-            "content": "<p>Short content about your store</p>"
+            "mobile_icon_width": 36,
+            "title": "24/7 support",
+            "content": ""
           }
         },
         "icon-4": {
           "type": "item",
           "settings": {
-            "icon": "picto-award-gift",
+            "icon": "picto-lock",
             "icon_width": 24,
-            "mobile_icon_width": 24,
-            "title": "Secure payments",
-            "content": "<p>Short content about your store</p>"
+            "mobile_icon_width": 36,
+            "title": "Safe & Secure Payment",
+            "content": ""
           }
         }
       },
       "block_order": [
-        "icon-1",
         "icon-2",
         "icon-3",
         "icon-4"

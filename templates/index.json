@@ -133,7 +133,7 @@
         "space_items": true,
         "stack_collections": true,
         "collections_per_row_mobile": "1",
-        "collections_per_row_desktop": 3,
+        "collections_per_row_desktop": 2,
         "subheading": "",
         "title": "",
         "content": ""
