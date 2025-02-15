@@ -170,6 +170,35 @@
         "remove_vertical_spacing": true
       }
     },
+    "scrolling_content_JJgQ9r": {
+      "type": "scrolling-content",
+      "blocks": {
+        "text_qFM84a": {
+          "type": "text",
+          "settings": {
+            "text": "FREE SHIPPING FOR ORDERS ABOVE 150 AED"
+          }
+        }
+      },
+      "block_order": [
+        "text_qFM84a"
+      ],
+      "settings": {
+        "separate_section_with_border": true,
+        "scrolling_speed": 0.3,
+        "scroll_direction": "left",
+        "pause_on_hover": false,
+        "text_font": "heading",
+        "text_font_size_mobile": 20,
+        "text_font_size_desktop": 40,
+        "section_vertical_spacing_mobile": 10,
+        "section_vertical_spacing_desktop": 20,
+        "item_horizontal_spacing_mobile": 80,
+        "item_horizontal_spacing_desktop": 120,
+        "background": "#11654f",
+        "text_color": "#ffffff"
+      }
+    },
     "faq_pqJXWD": {
       "type": "faq",
       "blocks": {
@@ -231,6 +260,7 @@
     "rich_text_ziLyr3",
     "collection_list_Lyt3VJ",
     "image_with_text_wg7jyt",
+    "scrolling_content_JJgQ9r",
     "faq_pqJXWD"
   ]
 }
