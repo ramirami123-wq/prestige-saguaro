@@ -28,22 +28,22 @@
         "settings": {
           "background": "#ffffff",
           "background_gradient": "",
-          "text_color": "#5c5c5c",
-          "primary_button_background": "#5c5c5c",
+          "text_color": "#000000",
+          "primary_button_background": "#11654f",
           "primary_button_text_color": "#ffffff",
           "circle_button_background": "#ffffff",
-          "circle_button_icon": "#1c1c1c"
+          "circle_button_icon": "#11654f"
         }
       },
       "scheme-2": {
         "settings": {
           "background": "#ffffff",
           "background_gradient": "",
-          "text_color": "#5c5c5c",
-          "primary_button_background": "#5c5c5c",
+          "text_color": "#000000",
+          "primary_button_background": "#11654f",
           "primary_button_text_color": "#ffffff",
           "circle_button_background": "#ffffff",
-          "circle_button_icon": "#5c5c5c"
+          "circle_button_icon": "#11654f"
         }
       },
       "scheme-3": {

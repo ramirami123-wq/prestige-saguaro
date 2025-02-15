@@ -53,9 +53,96 @@
         "background": "#000000",
         "controls_color": "#ffffff"
       }
+    },
+    "rich_text_ziLyr3": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_B4heBK": {
+          "type": "heading",
+          "settings": {
+            "text": "<strong>WHY CHOOSE SAGUARO?</strong>",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_6cfNJh": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>SAGUARO redefines footwear with the essence of barefoot living. Our designs embrace natural movement, promoting balance, alignment, and effortless comfort.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_B4heBK",
+        "richtext_6cfNJh"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "collection_list_Lyt3VJ": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_FUKpQX": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "mens-featured-products",
+            "image": "shopify://shop_images/G0A0523.jpg",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "",
+            "title": "<strong>MEN</strong>",
+            "button_text": "SHOP COLLECTION",
+            "button_link": "shopify://collections/mens-featured-products",
+            "button_style": "solid",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_dwxRJr": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "womens-featured-collection",
+            "image": "shopify://shop_images/20240406_184023.jpg",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "",
+            "title": "<strong>WOMEN</strong>",
+            "button_text": "SHOP COLLECTION",
+            "button_link": "shopify://collections/womens-featured-collection",
+            "button_style": "solid",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "collection_FUKpQX",
+        "collection_dwxRJr"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "image_size": "sm",
+        "show_text_outside": false,
+        "space_items": true,
+        "stack_collections": true,
+        "collections_per_row_mobile": "1",
+        "collections_per_row_desktop": 3,
+        "subheading": "",
+        "title": "",
+        "content": ""
+      }
     }
   },
   "order": [
-    "slideshow"
+    "slideshow",
+    "rich_text_ziLyr3",
+    "collection_list_Lyt3VJ"
   ]
 }
