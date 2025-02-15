@@ -83,6 +83,37 @@
         "remove_vertical_spacing": false
       }
     },
+    "image_with_text_wg7jyt": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_yLG6Hn": {
+          "type": "heading",
+          "settings": {
+            "text": "<strong>Step Into Strength</strong>",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_XtyzdQ": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Experience the power of natural movement—stronger feet, better posture, and effortless balance. Feel lighter with every step, reduce strain on your joints, and unlock a new level of comfort. Embrace the freedom to move the way your body was meant to.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_yLG6Hn",
+        "richtext_XtyzdQ"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "image": "shopify://shop_images/20240407_173303.jpg",
+        "reveal_on_scroll": true,
+        "image_position": "start",
+        "content_width": "sm",
+        "remove_vertical_spacing": true
+      }
+    },
     "collection_list_Lyt3VJ": {
       "type": "collection-list",
       "blocks": {
@@ -143,6 +174,7 @@
   "order": [
     "slideshow",
     "rich_text_ziLyr3",
-    "collection_list_Lyt3VJ"
+    "collection_list_Lyt3VJ",
+    "image_with_text_wg7jyt"
   ]
 }
