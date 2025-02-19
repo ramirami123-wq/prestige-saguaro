@@ -57,6 +57,12 @@
             "payment_button_text_color": ""
           }
         },
+        "liquid_bNyYaT": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
@@ -73,11 +79,12 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
+        "liquid_bNyYaT",
         "description"
       ],
       "custom_css": [
         "button {border-radius: 1rem;}",
-        " {animation: shopifyshake 4s;animation-iteration-count: infinite;}"
+        ".buy-buttons {animation: shopifyshake 4s; animation-iteration-count: infinite;}"
       ],
       "settings": {
         "color_scheme": "",
