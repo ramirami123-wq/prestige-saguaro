@@ -133,10 +133,29 @@
         "title": "Related products",
         "content": ""
       }
+    },
+    "1739984507744fbe87": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_W9z9Px": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_W9z9Px"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1",
+        "separate_section_with_border": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false
+      }
     }
   },
   "order": [
     "main",
-    "related-products"
+    "related-products",
+    "1739984507744fbe87"
   ]
 }
