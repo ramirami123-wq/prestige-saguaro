@@ -32,6 +32,21 @@
           "type": "separator",
           "settings": {}
         },
+        "offers_dG6Tzx": {
+          "type": "offers",
+          "settings": {
+            "stack_offers": false,
+            "offer_1_title": "<strong>FREE DELIVERY</strong>",
+            "offer_1_content": "<p>FREE DELIVERY FOR ORDERS ABOVE 150 AED</p>",
+            "offer_2_title": "",
+            "offer_2_content": "",
+            "offer_3_title": "",
+            "offer_3_content": "",
+            "background": "#11654f",
+            "text_color": "#ffffff",
+            "border_color": "#4ddc00"
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -76,6 +91,7 @@
         "price",
         "payment_terms",
         "separator",
+        "offers_dG6Tzx",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
